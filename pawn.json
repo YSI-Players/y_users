@@ -1,0 +1,9 @@
+{
+	"user": "YSI-Players",
+	"repo": "y_users",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+	]
+}
+
