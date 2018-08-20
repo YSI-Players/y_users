@@ -1,3 +1,40 @@
+# y_users
+
+A complete user system with login/registration handling, callbacks, and automatic saving of variables.
+
+
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_users-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Players/y_users)
+
+## Installation
+
+To install just this one library:
+
+```bash
+sampctl package install YSI-Players/y_users
+```
+
+Include in your code and begin using the library:
+
+```pawn
+#include <YSI-Players/y_users>
+```
+
+## Documentation
+
+* [Quick Start](YSI-Players/y_users/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Players/y_users/features.md) - More features and examples.
+* [FAQs](YSI-Players/y_users/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Players/y_users/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Players/y_users/internal.md) - Internal developer documentation for the system.
+
+## Testing
+
+To test, simply run the package:
+
+```bash
+sampctl package run
+```
+
 # YSI
 
 ## General Information
@@ -109,34 +146,4 @@ Libraries that have in-game visible effects.
 * [y_races](https://github.com/YSI-Visual/y_races/blob/dev/YSI-Visual/y_races.md)
 * [y_zonenames](https://github.com/YSI-Visual/y_zonenames/blob/dev/YSI-Visual/y_zonenames.md)
 * [y_zonepulse](https://github.com/YSI-Visual/y_zonepulse/blob/dev/YSI-Visual/y_zonepulse.md)
-
-# y_users
-
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_users-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Players/y_users)
-
-## Installation
-
-To install just this one library:
-
-```bash
-sampctl package install YSI-Players/y_users
-```
-
-Include in your code and begin using the library:
-
-```pawn
-#include <YSI-Players/y_users>
-```
-
-## Usage
-
-[Click Here] (YSI-Players/y_users.md)
-
-## Testing
-
-To test, simply run the package:
-
-```bash
-sampctl package run
-```
 
